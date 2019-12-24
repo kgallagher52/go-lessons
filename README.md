@@ -1,4 +1,5 @@
 # go-lessons
+
 This is a repo dedicated to learning everything Golang has to offer!
 
 
@@ -37,3 +38,5 @@ This is a repo dedicated to learning everything Golang has to offer!
 
     Todd McLeod Twitter 
     https://twitter.com/Todd_McLeod 
+
+
