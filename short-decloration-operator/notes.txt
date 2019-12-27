@@ -1,0 +1,25 @@
+Control Flow - How a computer reads the code. 
+  1. Sequence
+  2. loop; iterative
+  3. conditional
+
+* func main is the entry to the program when it exits func main() it's over
+
+Packages
+  Variadic Paramaters - Println is a Variadic paramater because it allows you to enter as many different paramaters as you want and can be different types. 
+    -empty interface or {}interfae - just means you can enter as many paramaters as you want
+  "_" - allows you to tell the compiler that you are not using the paramater or throws away the returns ex: 
+
+
+keywords
+  these are words that a reserved for use by the Go programming language
+    they are sometimes called “reserved words”
+    you can’t use a keyword for anything other than its purpose
+operator 
+  in “2 + 2” the “+” is the OPERATOR
+  an operator is a character that represents an action, as for example “+” is an arithmetic OPERATOR that represents addition
+  ":=" - short hand decloration that declare and assign a value
+operand
+  in “2 + 2” the “2”s are OPERANDS
+statement
+  In programming a statement is the smallest standalone element of a program that expresses some action to be carried out. It is an instruction 
