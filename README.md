@@ -16,6 +16,9 @@ This is a repo dedicated to learning everything Golang has to offer!
 
 ## Resources from Udemy course
 
+    GoPlayGround
+    https://play.golang.org/p/v3rrZLwEUC
+
     Caleb Doxsey website and his book
     http://www.doxsey.net/ 
     http://amzn.to/1OnFtPY 
