@@ -1,0 +1,117 @@
+The smallest standalone element of a program that expresses some action to be carried out. *
+    statement
+
+A combination of one or more explicit values, constants, variables, operators, and functions that the programming language interprets and computes to produce another value. *
+    expression
+
+Which are "parentheses" or "parens" *
+    ()
+
+Which are "curly braces" or "curlies" or "braces" *
+    {}
+
+Which are "brackets" *
+    []
+
+The "scope" of a variable is where you can access the variable, eg, write to it or read the value from it. *
+    true
+
+A "primitive" data TYPE is one that is built into the language AND/OR just a basic data type which is built into the language *
+    true
+
+In Go, an "int" is a primitive data TYPE *
+    true
+
+In Go, a "string" is a primitive data TYPE *
+    true
+
+A "composite" data TYPE allows you to compose together values of other data TYPES *
+    true
+
+When a variable is declared in Go using the "var" keyword, and no VALUE is ASSIGNED to that variable, then the compiler assigns a default value to the variable. This is known as the "zero value" *
+    true
+
+Keywords are words that a reserved for use by the Go programming language; they have to be used in a certain way for a certain purpose. *
+    true
+
+Keywords are sometimes called “reserved words.” *
+    true
+
+You can’t use a keyword for anything other than its purpose. *
+    true
+
+In “2 + 2” the “+” is the OPERATOR *
+    true
+
+In “2 + 2” the “2”s are OPERANDS *
+    true
+
+"package" is a keyword *
+    true
+
+"var" is a keyword *
+    true
+
+The entry point for all programs is in func main() which needs to be inside package main *
+    true
+
+The "short declaration operator" can be used anywhere in a program, including at both the package level and at the block level. *
+    false
+
+What are the three words used to describe good package names in the "effective go" document? *
+    short
+    concise
+    evocative
+
+What is the name of the website where you can write (most) Go code online and have it run online? *
+
+    golang playground
+
+ 
+A great place to ask questions is the "golang bridge forum" at https://forum.golangbridge.org/ *
+    true
+
+When you see something like "fmt.Println()" this is calling the "Println()" function from the "fmt" package. *
+    true
+
+An "identifier" is the name assigned to a variable or a function or a constant. *
+    true
+
+To call a func, variable, or constant from a package, use the "package-dot-identifier" syntax. For example, like this, "fmt.Println()" *
+    true
+
+What is "idiomatic Go code"?
+    When you write "idiomatic Go code" you are writing Go code which conforms to best practices for writing Go code.
+
+Which character allows you to "throw away returns" or "send returns into the void"? Said another way, which character allows you to tell the compiler that you are not going to use a value returned by a function? *
+    _
+
+In Go, you cannot have a variable which you do not use. *
+    true
+
+When you see that a func has a parameter of this type "...interface{}" this is called a "variadic parameter" and it means that the func can take as many values of that type as you want to pass in. *
+    true
+
+Every value in Go is also of type "empty interface" which is expressed like this: "interface{}" *
+    true
+
+A statement is an instruction that commands the computer to perform a specified action. Usually statements take up a line in a program. *
+    true
+
+An expression is a combination of one or more explicit values, constants, variables, operators, and functions that the programming language interprets and computes to produce another value. For example, 2+3 is an expression which evaluates to 5. *
+    true
+
+If I wanted to print to a string and then assign that value to a variable, I could use the "func Sprintf()" from the "fmt" package. *
+    true
+
+In Go, you can create your own TYPE *
+    true
+
+We don't say "casting" in Go, we say "conversion" *
+    true
+
+There is a language which we use to talk about the language. *
+    true
+
+When you create our own TYPE in Go, that TYPE will have an "underlying TYPE". *
+    true
