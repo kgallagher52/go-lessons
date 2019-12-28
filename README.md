@@ -14,7 +14,7 @@ This is a repo dedicated to learning everything Golang has to offer!
 
 
 
-## Resources from Udemy course
+## Resources from Udemy course. Credit: Todd McLeod
 
     GoPlayGround
     https://play.golang.org/p/v3rrZLwEUC
