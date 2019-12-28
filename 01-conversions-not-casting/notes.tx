@@ -1,0 +1,16 @@
+Conversions - taking a value of a certain type and we convert it to another type
+
+
+1. var a int
+
+2. type customInt int
+
+3. var b customInt
+
+4. a = integer - b = customInt
+
+5. a = b - Can't do this because you can't make a type equal another type
+
+6. a = int(b) - This is now an integer because I converted it
+
+"a = int(b)" - is called casting in other languages that is not the case with Golang it is converting
