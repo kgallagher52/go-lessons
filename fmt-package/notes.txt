@@ -4,7 +4,7 @@ basic code setup
     using short declaration operator
     https://play.golang.org/p/oLxC8gHE0D 
 
-%v 
+%v
     https://play.golang.org/p/51WOG55riI 
 
 escaped characters like \n or \t

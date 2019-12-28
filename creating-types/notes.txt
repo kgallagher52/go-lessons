@@ -1,0 +1,3 @@
+Golang is all about types, if you think about it Golang 
+is a static language and once a type is assigned that is just it. 
+It stays static never changing from it's original type.
