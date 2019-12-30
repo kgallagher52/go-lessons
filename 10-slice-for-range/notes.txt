@@ -1,0 +1,6 @@
+We can loop over the values in a slice with the range clause. We can also access items in a slice by index position.
+
+* Slices also start at index 0 
+
+x = slice
+  len(x) - gives length of slice
