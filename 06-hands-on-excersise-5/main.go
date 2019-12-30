@@ -1,5 +1,8 @@
 package main
 
-func main() {
+import "fmt"
 
+func main() {
+	x := "here is a 'raw string literal' "
+	fmt.Println(x)
 }
