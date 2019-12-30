@@ -1,0 +1,19 @@
+Resource
+	https://golang.org/ref/spec#For_statements
+
+There is no while loops in Golang
+
+Basic structure of a loop
+	for init; condition; post {
+	}
+
+A "for" statement specifies repeated execution of a block. There are three forms: The iteration may be controlled by a single condition, a "for" clause, or a "range" clause.
+
+For loop in it's simplest terms
+	for a < b {
+		a*=2
+	
+
+ForStmt = "for" [ Condition | ForClause | RangeClause ] Block .
+
+Continue = If a condition is true don't move to the next code block rather jump back up and keep going through the loop
