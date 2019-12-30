@@ -1,0 +1,44 @@
+HOW COMPUTERS WORK
+
+    - computers run on electricity
+
+    - electricity has two discrete states: ON and OFF
+
+    - we can create coding schemes for “on” or “off” states
+        1. EX: Haloween if light is off don't come to the house if it's on come trick-or-treat
+            2^n
+            1 porch light  = 2   messages 
+            2 porch lights = 4   messages
+            3 porch lights = 8   messages
+            4 porch lights = 16  messages 
+            5 porch lights = 32  messages
+            6 porch lights = 64  messages
+            7 porch lights = 128 messages
+            8 porch lights = 256 messages
+
+    - Binary
+    
+        *byte which is an alias for uint8
+        *rune whis is an alias for int 32
+
+        1 = on
+        2 = off
+
+        Binary Digits - how we get term bits
+
+        Coding Scheme
+
+            - ascii
+            - UTF-8
+    - Bits
+
+        1 = bit
+        8 bits = byte
+        1000 bytes = kb  
+        1000 kb = mb
+        1000 mb = gb
+        1000 gb = tb
+
+    - First computer ENIAC
+
+

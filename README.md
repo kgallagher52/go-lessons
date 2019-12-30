@@ -12,6 +12,15 @@
     2. effective go - https://golang.org/doc/effective_go.html
         - standard library
         - third-party packages
+        
+## Creators of Golang
+    
+    1. Robert Griesemer
+
+    2. Rob Pike
+
+    3. Ken Thompson
+
 
 ## Resources from Udemy course. Credit: Todd McLeod
 
