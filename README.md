@@ -1,5 +1,6 @@
 # go-lessons
-This is a repo dedicated to learning everything Golang has to offer!
+
+    This is a repo dedicated to learning everything Golang has to offer!
 
 
 ## Documentation 
@@ -12,12 +13,10 @@ This is a repo dedicated to learning everything Golang has to offer!
         - standard library
         - third-party packages
 
-
-
 ## Resources from Udemy course. Credit: Todd McLeod
 
     1. Video Lectures
-    
+
         https://www.udemy.com/course/learn-how-to-code/learn/lecture/11922068?start=15#overview
 
     GoPlayGround
