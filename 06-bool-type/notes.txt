@@ -1,0 +1,11 @@
+1. Boolean - A binary variable having two possible values called "true" and "false"
+
+    Boolean - default value is "false"
+
+When you use an equality comparison operator, this is an expression which will evaluate to a boolean value
+    ==
+    <=
+    >=
+    !=
+    <
+    >
