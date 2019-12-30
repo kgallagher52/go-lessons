@@ -15,6 +15,7 @@ func main() {
 	if !true {
 		fmt.Println("003")
 	}
+
 	if !false {
 		fmt.Println("004")
 	}
