@@ -24,10 +24,12 @@
 
 ## Resources from Udemy course. Credit: Todd McLeod
 
-    1. Video Lectures
+    Video Lectures
+    https://www.udemy.com/course/learn-how-to-code/learn/lecture/11922068?start=15#overview
 
-        https://www.udemy.com/course/learn-how-to-code/learn/lecture/11922068?start=15#overview
-
+    Go by example
+    https://gobyexample.com/
+    
     GoPlayGround
     https://play.golang.org/p/v3rrZLwEUC
 

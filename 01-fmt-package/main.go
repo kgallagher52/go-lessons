@@ -2,9 +2,9 @@ package main
 
 import "fmt"
 
-var m = 02
-var d = 20
-var y = 93
+var m = 11
+var d = 03
+var y = 1986
 
 func main() {
 	fmt.Println(m)
