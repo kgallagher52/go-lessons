@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// * These are all "Expression Switches" the other kind of switches is "Type Switches"
 func main() {
 	switch {
 	case false:
