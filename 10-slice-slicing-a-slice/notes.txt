@@ -1,0 +1,7 @@
+We can slice a slice which means that we can cut parts of the slice away. We do this with the colon operator.
+
+Slicing a slice utilizes the ":" operator
+
+range - also known as a range clause
+
+x[1:] - go from 1 to the end
