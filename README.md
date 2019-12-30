@@ -16,6 +16,10 @@ This is a repo dedicated to learning everything Golang has to offer!
 
 ## Resources from Udemy course. Credit: Todd McLeod
 
+    1. Video Lectures
+    
+        https://www.udemy.com/course/learn-how-to-code/learn/lecture/11922068?start=15#overview
+
     GoPlayGround
     https://play.golang.org/p/v3rrZLwEUC
 
