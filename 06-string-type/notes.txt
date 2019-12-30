@@ -1,0 +1,1 @@
+As humans, we have many different systems for expressing the quantities of something. Using the decimal numeral system, we might say we have 7 oranges; or 14 carrots; or 42 dollars. Other numeral systems which are used in programming include the binary numeral system and the hexadecimal numeral system.
