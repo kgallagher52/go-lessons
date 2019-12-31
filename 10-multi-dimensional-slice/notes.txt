@@ -1,0 +1,10 @@
+A multi-dimensional slice is like a spreadsheet. You can have a slice of a slice of some type. Does that sound confusing? Watch this video and it will all be clarified.
+code
+
+
+Syntax
+    jb = array
+    mp = array
+	xp := [][]string{jb, mp} // Multi-Dimensional String
+    OUTPUT: 
+        [[Harry Ron Dumbldore Snape] [Voldmort Bellatrix Sirius Mallfloy]]
