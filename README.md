@@ -25,7 +25,7 @@
 
     01. Variables, Values, & Type
 
-    06. Fundamentals: Bool type, How Computers work, Numeric types, String Type, Numeeral       Systems, Constants, Iota, and Bit shifting
+    06. Fundamentals: Bool type, How Computers work, Numeric types, String Type, Numeral Systems, Constants, Iota, and Bit shifting
 
     08. Control Flow: Loops, Conditional Statements
 
