@@ -21,6 +21,33 @@
 
     3. Ken Thompson
 
+## Section topics
+
+    01. Variables, Values, & Type
+
+    06. Fundamentals: Bool type, How Computers work, Numeric types, String Type, Numeeral       Systems, Constants, Iota, and Bit shifting
+
+    08. Control Flow: Loops, Conditional Statements
+
+    10. Grouping Data: Array, Slice, Map
+
+    12. Structs
+
+    14. Functions
+
+    16. Pointers
+
+    18. Application
+
+    20. Concurrency
+
+    22. Channels
+
+    24. Error Handling
+
+    26. Writing Documentation
+
+    28. Testing & Benchmarking
 
 ## Resources from Udemy course. Credit: Todd McLeod
 

@@ -1,0 +1,7 @@
+1. Using a COMPOSITE LITERAL: 
+    a. create an ARRAY which holds 5 VALUES of TYPE int
+    b. assign VALUES to each index position. 
+
+2. Range over the array and print the values out. 
+3. Using format printing
+    a. print out the TYPE of the array

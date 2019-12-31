@@ -1,0 +1,7 @@
+To DELETE from a slice, we use APPEND along with SLICING. For this hands-on exercise, follow these steps:
+
+    1. start with this slice
+        a. x := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}
+
+    2. use APPEND & SLICING to get these values here which you should ASSIGN to a variable “y” and then print:
+        a. [42, 43, 44, 48, 49, 50, 51]

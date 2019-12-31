@@ -1,0 +1,5 @@
+1. Using the code from the previous example, use SLICING to create the following new slices which are then printed:
+    a. [42 43 44 45 46]
+    b. [47 48 49 50 51]
+    c. [44 45 46 47 48]
+    d. [43 44 45 46 47]

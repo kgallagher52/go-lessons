@@ -1,0 +1,21 @@
+Follow these steps:
+
+    1. start with this slice
+        a. x := []int{42, 43, 44, 45, 46, 47, 48, 49, 50, 51}
+
+    2. append to that slice this value
+        a. 52
+
+    3. print out the slice
+
+    4. in ONE STATEMENT append to that slice these values
+        a. 53
+        b. 54
+        c. 55
+
+    5. print out the slice
+
+    6. append to the slice this slice
+        a. y := []int{56, 57, 58, 59, 60}
+
+    7. print out the slice
