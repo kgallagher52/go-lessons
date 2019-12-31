@@ -1,6 +1,6 @@
 # go-lessons
 
-  This is a repo dedicated to learning everything Golang has to offer! Also, I need to give credit to Todd McLeod for teaching all of these sections if you haven't done any of his lectures highly recommend him!
+        This is a repo dedicated to learning everything Golang has to offer! Also, I need to give credit to Todd McLeod for teaching all of these sections if you haven't done any of his lectures highly recommend him!
 
 ## Section topics
 
@@ -32,17 +32,17 @@
 
 ## Documentation 
 
-    [language spec](https://golang.org/ref/spec)
+    [language spec](#https://golang.org/ref/spec)
 
-        *language
-        
-        *standard library
+        - language
 
-    [effective go](https://golang.org/doc/effective_go.html)
+        - standard library
 
-        *standard library
+    [effective go](#https://golang.org/doc/effective_go.html)
 
-        *third-party packages
+        - standard library
+
+        - third-party packages
         
 ## Creators of Golang
     
@@ -54,23 +54,22 @@
 
 ## Resources from Udemy course. Credit: Todd McLeod
 
-    [Video Lectures](https://www.udemy.com/course/learn-how-to-code/learn/lecture/11922068?start=15#overview)
+    [Video Lectures](#https://www.udemy.com/course/learn-how-to-code/learn/lecture/11922068?start=15#overview)
 
-    [Go by example](https://gobyexample.com/)
+    [Go by example](#https://gobyexample.com/)
     
-    [GoPlayGround]
-    (https://play.golang.org/p/v3rrZLwEUC)
+    [GoPlayGround](#https://play.golang.org/p/v3rrZLwEUC)
 
-    [Caleb Doxsey website](http://www.doxsey.net/)
+    [Caleb Doxsey website](#http://www.doxsey.net/)
 
-    [Caleb Doxsey book](http://amzn.to/1OnFtPY)
+    [Caleb Doxsey book](#http://amzn.to/1OnFtPY)
      
-    [Bill Kennedy’s book](http://amzn.to/1kGGsPv)
+    [Bill Kennedy’s book](#http://amzn.to/1kGGsPv)
 
-    [Donovan and Kernighan’s book](http://amzn.to/1RIM5HP)
+    [Donovan and Kernighan’s book](#http://amzn.to/1RIM5HP)
 
-    [Go Web Programming](http://amzn.to/2dVlW07)
+    [Go Web Programming](#http://amzn.to/2dVlW07)
 
-    [Todd McLeod YouTube](https://www.youtube.com/user/toddmcleod)
+    [Todd McLeod YouTube](#https://www.youtube.com/user/toddmcleod)
 
-    [Todd McLeod Twitter](https://twitter.com/Todd_McLeod)
+    [Todd McLeod Twitter](#https://twitter.com/Todd_McLeod)
