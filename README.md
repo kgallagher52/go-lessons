@@ -34,13 +34,17 @@
 
 ## Documentation 
 
-    1. [language spec](https://golang.org/ref/spec)
-        * language
-        * standard library
+    [language spec](https://golang.org/ref/spec)
 
-    2. [effective go](https://golang.org/doc/effective_go.html)
-        * standard library
-        * third-party packages
+        *language
+        
+        *standard library
+
+    [effective go](https://golang.org/doc/effective_go.html)
+
+        *standard library
+
+        *third-party packages
         
 ## Creators of Golang
     
