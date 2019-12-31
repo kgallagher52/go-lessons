@@ -2,25 +2,6 @@
 
     This is a repo dedicated to learning everything Golang has to offer!
 
-
-## Documentation 
-
-    1. language spec - https://golang.org/ref/spec
-        - language
-        - standard library
-
-    2. effective go - https://golang.org/doc/effective_go.html
-        - standard library
-        - third-party packages
-        
-## Creators of Golang
-    
-    1. Robert Griesemer
-
-    2. Rob Pike
-
-    3. Ken Thompson
-
 ## Section topics
 
     01. Variables, Values, & Type
@@ -48,6 +29,24 @@
     26. Writing Documentation
 
     28. Testing & Benchmarking
+
+## Documentation 
+
+    1. language spec - https://golang.org/ref/spec
+        - language
+        - standard library
+
+    2. effective go - https://golang.org/doc/effective_go.html
+        - standard library
+        - third-party packages
+        
+## Creators of Golang
+    
+    1. Robert Griesemer
+
+    2. Rob Pike
+
+    3. Ken Thompson
 
 ## Resources from Udemy course. Credit: Todd McLeod
 
