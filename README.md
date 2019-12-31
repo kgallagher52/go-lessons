@@ -34,15 +34,15 @@
 
 [language spec](#https://golang.org/ref/spec)
 
-*language
+    - language
 
-*standard library
+    - standard library
 
-[effective go](#https://golang.org/doc/effective_go.html)
+[effective go](https://golang.org/doc/effective_go.html)
 
-        - standard library
+    - standard library
 
-        - third-party packages
+    - third-party packages
         
 ## Creators of Golang
     
