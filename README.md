@@ -1,6 +1,10 @@
 # go-lessons
 
-        This is a repo dedicated to learning everything Golang has to offer! Also, I need to give credit to Todd McLeod for teaching all of these sections if you haven't done any of his lectures highly recommend him!
+    This is a repo dedicated to learning everything Golang has to offer! 
+    
+    Also, I need to give credit to Todd McLeod for teaching all of these sections 
+    
+    if you haven't done any of his lectures highly recommend him!
 
 ## Section topics
 
