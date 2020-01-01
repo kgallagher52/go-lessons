@@ -1,0 +1,7 @@
+
+A struct is a sequence of named elements, called fields, each of which has a name and a type. Field names may be specified explicitly (IdentifierList) or implicitly (EmbeddedField). Within a struct, non-blank field names must be unique.
+
+We can take one struct and embed it in another struct. When you do this the inner type gets promoted to the outer type.
+
+Reading documentation - https://golang.org/ref/spec#Struct_types
+    It is good to become familiar with the language used to talk about this language. The “golang spec” can be difficult to read. I like spending some time with my students reading the language specification together so that they gain the skill of being able to read it on their own.

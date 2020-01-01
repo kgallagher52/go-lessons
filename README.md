@@ -47,6 +47,8 @@
     - standard library
 
     - third-party packages
+
+[structs](https://golang.org/ref/spec#Struct_types)
         
 ## Creators of Golang
     
