@@ -1,0 +1,3 @@
+When you have a slice of some type, you can pass in the individual values in a slice by using the “...” operator.
+
+** Variadic is 0-unlimited
