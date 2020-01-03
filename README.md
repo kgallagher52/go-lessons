@@ -79,3 +79,13 @@
 [Todd McLeod YouTube](https://www.youtube.com/user/toddmcleod)
 
 [Todd McLeod Twitter](https://twitter.com/Todd_McLeod)
+
+
+### Three main sought reasons for creating Golang
+
+    1. Ease of Coding
+
+    2. Efficient Code-Compilation
+
+    3. Efficient Execution
+    
