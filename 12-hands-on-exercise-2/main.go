@@ -22,6 +22,8 @@ func main() {
 	m := map[string]person{ // p1.last = key | p1 = value you want for the record found
 		p1.last: p1,
 	}
+	fmt.Printf("%T\n", m)
+
 	fmt.Println("Map of last name value\n", m)
 
 }
