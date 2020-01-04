@@ -2,12 +2,12 @@ package main
 
 import "fmt"
 
-var s = 641  // Seperation
+var s = 645  // Seperation
 var tb = 772 // Score to Beat
 
 func main() {
-	gk := 33 // Game Kills
-	gd := 20 // Game Deaths
+	gk := 19 // Game Kills
+	gd := 13 // Game Deaths
 
 	if gk > gd {
 		fmt.Println("Good Game!", (gk-gd)+s)
@@ -17,6 +17,9 @@ func main() {
 	} else {
 		fmt.Println("Bad Game!", s-(gd-gk))
 	}
-
-	defer fmt.Println("You are ", tb-s, "away from catching up!")
+	if (tb - s) == 0 {
+		fmt.Println("CONGRATS YOU ARE CAUGHT UP!!!")
+	} else {
+		defer fmt.Println("You are ", tb-s, "away from catching up!")
+	}
 }
