@@ -1,0 +1,4 @@
+** Recursion is a function calling itself a certain number of times and then stopping.
+
+a func that calls itself
+factorial example
