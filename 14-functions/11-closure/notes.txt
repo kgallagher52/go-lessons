@@ -1,0 +1,6 @@
+one scope enclosing other scopes
+    variables declared in the outer scope are accessible in inner scopes
+closure helps us limit the scope of variables
+
+
+* Want to keep the scope of your variables small as possible
