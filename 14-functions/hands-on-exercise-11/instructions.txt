@@ -1,0 +1,12 @@
+The best way to learn is to teach. For this hands-on exercise, 
+
+    1. choose one of the above exercises, or use the recursion example of factorial
+
+    2. download, install, and get it running 
+    https://obsproject.com/ 
+
+    3. record a video of YOU teaching the topic
+
+    4. upload the video to youtube
+
+    5. share the video on twitter and tag me in it ( https://twitter.com/Todd_McLeod ) so that I can see it!

@@ -1,0 +1,14 @@
+1. Create a user defined struct with 
+    a. the identifier “person”
+    b. the fields:
+        1. first
+        2. last
+        3. age
+
+2. attach a method to type person with
+    a. the identifier “speak”
+    b. the method should have the person say their name and age
+
+3. create a value of type person
+
+4. call the method from the value of type person
