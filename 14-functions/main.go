@@ -2,12 +2,12 @@ package main
 
 import "fmt"
 
-var s = 446  // Seperation
+var s = 484  // Seperation
 var tb = 772 // Score to Beat
 
 func main() {
-	gk := 18 // Game Kills
-	gd := 14 // Game Deaths
+	gk := 19 // Game Kills
+	gd := 10 // Game Deaths
 
 	if gk > gd {
 		fmt.Println("Good Game!", (gk-gd)+s)
