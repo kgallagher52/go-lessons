@@ -1,1 +1,20 @@
-Anonymous self-executing func
+Assigning a function to a variable
+
+Expression is something that comes down to a value
+
+** func is like any other type
+
+
+EXAMPLE ONE
+
+    x := func() {
+        fmt.Println("I have been assigned")
+    }
+    x()
+
+EXAMPLE TWO
+
+    y := func(z int) {
+        fmt.Println("I have been assigned and given argument!",x)
+    }
+    y(200)
