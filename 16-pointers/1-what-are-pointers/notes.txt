@@ -1,0 +1,38 @@
+Think of memory in a computer like P.O boxes each box will have a memory address
+
+** Everything in go is shared by values
+
+& - Operator that shows the address of a value in memory
+
+a := 42
+
+a - type is equal too int
+
+&a - type is equal to int with a pointer "int"
+
+&a a - are two intierly different types return "*int" * here is a pointer
+
+* - Operator derefrence the address
+
+Can't do this: "var b int = &b"
+
+Give me the address of a variable and derefrence it - *&a
+
+**------ Very important to understand ------**
+
+    *b - the star here is an operator
+    *int - is different it's a type
+	* - Operator derefrence the address
+
+**------------------------------------------**
+
+
+EXAMPLE: 
+    1. Assign a to 42 which is an int
+	    a := 42 
+
+    2. Assign b to a's address
+        b := &a
+
+    3. Give me the value of b and assign it to 43
+        *b = 43
