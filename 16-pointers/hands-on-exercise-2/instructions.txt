@@ -1,0 +1,19 @@
+1. create a person struct
+
+2. create a func called “changeMe” with a *person as a parameter
+    a. change the value stored at the *person address
+        *important
+            1. to dereference a struct, use (*value).field 
+                p1.first
+                (*p1).first
+            2. “As an exception, if the type of x is a named pointer type and (*x).f is a valid selector expression denoting a field (but not a method), x.f is shorthand for (*x).f.”
+                https://golang.org/ref/spec#Selectors 
+
+3. create a value of type person
+    a. print out the value
+
+4. in func main
+    a. call “changeMe”
+
+5. in func main
+    a. print out the value
