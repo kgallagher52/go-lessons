@@ -1,1 +1,26 @@
-A type may have a method set associated with it. The method set of an interface type is its interface. The method set of any other type T consists of all methods declared with receiver type T. The method set of the corresponding pointer type *T is the set of all methods declared with receiver *T or T (that is, it also contains the method set of T). Further rules apply to structs containing embedded fields, as described in the section on struct types. Any other type has an empty method set. In a method set, each method must have a unique non-blank method name.
+Defenition: 
+    A type may have a method set associated with it. The method set of an interface type is its interface. The method set of any other type T consists of all methods declared with receiver type T. The method set of the corresponding pointer type *T is the set of all methods declared with receiver *T or T (that is, it also contains the method set of T). Further rules apply to structs containing embedded fields, as described in the section on struct types. Any other type has an empty method set. In a method set, each method must have a unique non-blank method name.
+
+
+func (c circle) area() float64 { 
+	return math.Pi * c.radius * c.radius
+}
+
+(c circle) = NON-POINTER-RECIVER
+    - works with values that are POINTERS or NON-POINTERS
+
+(C *circle) = POINTER-RECIVER
+    - only works with values that are POINTERS
+
+
+***- SO THIS WON'T WORK A POINTER TO A NON RECIVER -***
+
+    func (c *circle) area() float64 {
+        return math.Pi * c.radius * c.radius
+    }
+
+    func main() {
+	    c := circle{9}
+	    info(c) // Would have to be info(&c)
+    }
+***--------------------------------------------------***
