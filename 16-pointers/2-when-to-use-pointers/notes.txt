@@ -1,0 +1,20 @@
+*** EVERYTHING IS PASSED BY VALUE IN GO
+
+When should you use pointers? 
+
+    Well say you are passing data through the program and it's large instead of passing that data around you can just give it the address of the data to save memory.
+
+    Also when you need to change the value at a certain location in the program you can use a pointer *
+
+EXAMPLE:
+   
+    func main() {
+        x := 0
+        foo(&x)
+        "x now = 52"
+    }
+   
+    func foo(p *int) {
+        "p = 0xc000088018 address"
+	    *p = 52 
+    }
