@@ -1,8 +1,9 @@
 package main
 
-import "fmt"
-
-import "encoding/json"
+import (
+	"encoding/json"
+	"fmt"
+)
 
 type person struct {
 	First   string // ** These have to be capital if you plan on using them in a brought in package

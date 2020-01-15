@@ -1,0 +1,6 @@
+JSON unmarshal
+    We can take JSON and bring it back into our Go program by unmarshalling that JSON. Great resources for understanding and working with JSON are shared.
+    cool websites: 
+        http://rawgit.com/ 
+        https://mholt.github.io/json-to-go/ 
+        https://github.com/goestoeleven 
