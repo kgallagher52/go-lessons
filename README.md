@@ -6,6 +6,7 @@
     
     if you haven't done any of his lectures highly recommend him!
 
+
 ## Section topics
 
     01. Variables, Values, & Type
@@ -88,4 +89,12 @@
     2. Efficient Code-Compilation
 
     3. Efficient Execution
+
+### Things to help navigate through this repo
+
+    1. If you search for * - It will find things I deemed important
+
+    2. If you search for ** - It will find things I deemed need to know
+
+    3. If you search for *** - It will find things I deemed extremely important and need to know
     
