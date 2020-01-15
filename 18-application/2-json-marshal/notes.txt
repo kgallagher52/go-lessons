@@ -1,0 +1,5 @@
+Documentation on the encoded/json package: https://godoc.org/encoding/json
+
+
+JSON marshal
+Here is an example of how you marshal data in Go to JSON. Also important, this video shows how the case of an identifier - lowercase or uppercase, determines whether or not the data can be exported. 
