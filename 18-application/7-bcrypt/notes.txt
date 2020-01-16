@@ -1,3 +1,22 @@
 bcrypt
 
     All too often today you still hear about websites and databases being hacked and user’s information being compromised. There is no excuse for this. As programmers, we have the tools to protect user data. Bcrypt is one of the tools you can use to protect user data. Using bcrypt, we will gain further understanding as to how to read and implement code from the standard library.
+
+Package URL: https://godoc.org/golang.org/x/crypto/bcrypt
+
+ENCRYPTING PASS
+    Original Function takes in password & cost which is an int and is the amount of times it runs through the algrothim then returns array of bytes or an error
+
+        func GenerateFromPassword(password []byte, cost int) ([]byte, error) 
+
+COMPARING ENCRYPTED PASS WITH PLAIN TEXT
+    Takes in the hashed password and the non hashed password which is an array of bytes []byte(s) and returns an error meaning as long as it works it means the password was correct
+
+        func CompareHashAndPassword(hashedPassword, password []byte) error
+
+Constants
+const (
+    MinCost     int = 4  // the minimum allowable cost as passed in to GenerateFromPassword
+    MaxCost     int = 31 // the maximum allowable cost as passed in to GenerateFromPassword
+    DefaultCost int = 10 // the cost that will actually be set if a cost below MinCost is passed into GenerateFromPassword
+)
