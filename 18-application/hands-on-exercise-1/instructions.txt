@@ -1,3 +1,42 @@
 Hands-on exercise #1
 
-    1. Starting with this code, marshal the []user to JSON. There is a little bit of a curve ball in this hands-on exercise - remember to ask yourself what you need to do to EXPORT a value from a package.
+    Starting with this code
+    _______________________________
+        package main
+
+        import (
+            "fmt"
+        )
+
+        type wizard struct {
+            First string
+            Age   int
+        }
+
+        func main() {
+            w1 := wizard{
+                First: "Harry",
+                Age:   21,
+            }
+
+            w2 := wizard{
+                First: "Hermine",
+                Age:   22,
+            }
+
+            w3 := wizard{
+                First: "Ron",
+                Age:   20,
+            }
+
+            wizards := []wizard{w1, w2, w3}
+
+            fmt.Println(wizards)
+
+            // your code goes here
+        }
+    
+    
+    _______________________________
+    
+    1. marshal the []user to JSON. There is a little bit of a curve ball in this hands-on exercise - remember to ask yourself what you need to do to EXPORT a value from a package.
