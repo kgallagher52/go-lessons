@@ -9,24 +9,24 @@ Hands-on exercise #1
         )
 
         type wizard struct {
-            First string
-            Age   int
+            first string
+            age   int
         }
 
         func main() {
             w1 := wizard{
-                First: "Harry",
-                Age:   21,
+                first: "Harry",
+                age:   21,
             }
 
             w2 := wizard{
-                First: "Hermine",
-                Age:   22,
+                first: "Hermine",
+                age:   22,
             }
 
             w3 := wizard{
-                First: "Ron",
-                Age:   20,
+                first: "Ron",
+                age:   20,
             }
 
             wizards := []wizard{w1, w2, w3}

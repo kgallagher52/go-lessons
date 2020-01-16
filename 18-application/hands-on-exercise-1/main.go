@@ -1,33 +1,40 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 )
 
-type wizard struct {
+// Wizard ...
+type Wizard struct {
 	First string
 	Age   int
 }
 
 func main() {
-	w1 := wizard{
+	w1 := Wizard{
 		First: "Harry",
 		Age:   21,
 	}
 
-	w2 := wizard{
+	w2 := Wizard{
 		First: "Hermine",
 		Age:   22,
 	}
 
-	w3 := wizard{
+	w3 := Wizard{
 		First: "Ron",
 		Age:   20,
 	}
 
-	wizards := []wizard{w1, w2, w3}
+	wizards := []Wizard{w1, w2, w3}
 
 	fmt.Println(wizards)
 
-	// your code goes here
+	mw, err := json.Marshal(wizards)
+	if err != nil {
+		fmt.Println(err)
+	}
+	fmt.Println("Marshaled Wizards: ", mw)
+
 }
