@@ -1,0 +1,13 @@
+
+How you should go about looking for documentation that you need on the offical site:
+    https://golang.org/ > documentation > package documentation > sort
+
+Packages: https://golang.org/pkg/
+
+
+The sort package: https://golang.org/pkg/sort/
+
+
+Sorting Int's Example: https://godoc.org/sort#example-Ints
+
+Sorting Strings Example: https://godoc.org/sort#example-Strings
