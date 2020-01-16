@@ -1,0 +1,1 @@
+Understanding the writer interface from package io. Also, one last note about working with JSON: encode & decode.
